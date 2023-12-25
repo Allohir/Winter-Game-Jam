@@ -5462,7 +5462,7 @@ MonoBehaviour:
   storyText: "\u042F \u0443\u0441\u0442\u0430\u043B! \u042F \u0443\u0445\u043E\u0436\u0443!"
   description: 
   character: {fileID: 858710477}
-  portrait: {fileID: 0}
+  portrait: {fileID: 21300000, guid: d7bfc269200b2224bb6bd7911fcfa433, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -7815,7 +7815,8 @@ MonoBehaviour:
   nameText: "\u0411\u043E\u0440\u0438\u0441 \u0415\u043B\u044C\u0446\u0438\u043D"
   nameColor: {r: 1, g: 1, b: 1, a: 1}
   soundEffect: {fileID: 0}
-  portraits: []
+  portraits:
+  - {fileID: 21300000, guid: d7bfc269200b2224bb6bd7911fcfa433, type: 3}
   portraitsFace: 0
   setSayDialog: {fileID: 1249447698}
   description: 
